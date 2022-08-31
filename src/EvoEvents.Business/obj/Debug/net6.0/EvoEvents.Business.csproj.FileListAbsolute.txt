@@ -1,0 +1,17 @@
+C:\Projects\Team2\BE\src\EvoEvents.Business\bin\Debug\net6.0\EvoEvents.Business.deps.json
+C:\Projects\Team2\BE\src\EvoEvents.Business\bin\Debug\net6.0\EvoEvents.Business.dll
+C:\Projects\Team2\BE\src\EvoEvents.Business\bin\Debug\net6.0\EvoEvents.Business.pdb
+C:\Projects\Team2\BE\src\EvoEvents.Business\bin\Debug\net6.0\EvoEvents.Data.dll
+C:\Projects\Team2\BE\src\EvoEvents.Business\bin\Debug\net6.0\EvoEvents.Data.pdb
+C:\Projects\Team2\BE\src\EvoEvents.Business\obj\Debug\net6.0\EvoEvents.Business.csproj.AssemblyReference.cache
+C:\Projects\Team2\BE\src\EvoEvents.Business\obj\Debug\net6.0\EvoEvents.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Team2\BE\src\EvoEvents.Business\obj\Debug\net6.0\EvoEvents.Business.AssemblyInfoInputs.cache
+C:\Projects\Team2\BE\src\EvoEvents.Business\obj\Debug\net6.0\EvoEvents.Business.AssemblyInfo.cs
+C:\Projects\Team2\BE\src\EvoEvents.Business\obj\Debug\net6.0\EvoEvents.Business.csproj.CoreCompileInputs.cache
+C:\Projects\Team2\BE\src\EvoEvents.Business\obj\Debug\net6.0\EvoEvents.Business.csproj.CopyComplete
+C:\Projects\Team2\BE\src\EvoEvents.Business\obj\Debug\net6.0\EvoEvents.Business.dll
+C:\Projects\Team2\BE\src\EvoEvents.Business\obj\Debug\net6.0\refint\EvoEvents.Business.dll
+C:\Projects\Team2\BE\src\EvoEvents.Business\obj\Debug\net6.0\EvoEvents.Business.pdb
+C:\Projects\Team2\BE\src\EvoEvents.Business\obj\Debug\net6.0\ref\EvoEvents.Business.dll
+C:\Projects\Team2\BE\src\EvoEvents.Business\bin\Debug\net6.0\Infrastructure.dll
+C:\Projects\Team2\BE\src\EvoEvents.Business\bin\Debug\net6.0\Infrastructure.pdb

@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{F1A6CD4F-B330-408F-B625-492080C3D1C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvoEvents.API", "EvoEvents.API\EvoEvents.API.csproj", "{837C6F09-C20E-40C8-84E5-B471ECA68589}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvoEvents.Business", "EvoEvents.Business\EvoEvents.Business.csproj", "{4AA0049D-78DD-4883-BCA9-2E65645EE154}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvoEvents.Data", "EvoEvents.Data\EvoEvents.Data.csproj", "{53A96298-6347-42B1-91D2-7E653E17DB0B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvoEvents.Migrations", "EvoEvents.Migrations\EvoEvents.Migrations.csproj", "{1AB0BA87-E762-43FE-865A-F2FE533E9E15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvoEvents.UnitTests", "EvoEvents.UnitTests\EvoEvents.UnitTests.csproj", "{57B4CB50-9CB3-4940-9EFE-73B8CE9776D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{9BE3CC78-1253-466D-A87A-8A664FD0E5CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{837C6F09-C20E-40C8-84E5-B471ECA68589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837C6F09-C20E-40C8-84E5-B471ECA68589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837C6F09-C20E-40C8-84E5-B471ECA68589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837C6F09-C20E-40C8-84E5-B471ECA68589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA0049D-78DD-4883-BCA9-2E65645EE154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA0049D-78DD-4883-BCA9-2E65645EE154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA0049D-78DD-4883-BCA9-2E65645EE154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA0049D-78DD-4883-BCA9-2E65645EE154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A96298-6347-42B1-91D2-7E653E17DB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A96298-6347-42B1-91D2-7E653E17DB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A96298-6347-42B1-91D2-7E653E17DB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A96298-6347-42B1-91D2-7E653E17DB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB0BA87-E762-43FE-865A-F2FE533E9E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB0BA87-E762-43FE-865A-F2FE533E9E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB0BA87-E762-43FE-865A-F2FE533E9E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB0BA87-E762-43FE-865A-F2FE533E9E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B4CB50-9CB3-4940-9EFE-73B8CE9776D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B4CB50-9CB3-4940-9EFE-73B8CE9776D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B4CB50-9CB3-4940-9EFE-73B8CE9776D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B4CB50-9CB3-4940-9EFE-73B8CE9776D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE3CC78-1253-466D-A87A-8A664FD0E5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE3CC78-1253-466D-A87A-8A664FD0E5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE3CC78-1253-466D-A87A-8A664FD0E5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE3CC78-1253-466D-A87A-8A664FD0E5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57B4CB50-9CB3-4940-9EFE-73B8CE9776D0} = {F1A6CD4F-B330-408F-B625-492080C3D1C0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01DF642D-4762-473D-B7AA-0503E8F9117E}
+	EndGlobalSection
+EndGlobal

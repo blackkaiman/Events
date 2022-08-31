@@ -1,0 +1,12 @@
+C:\Projects\Team2\BE\src\EvoEvents.Data\bin\Debug\net6.0\EvoEvents.Data.deps.json
+C:\Projects\Team2\BE\src\EvoEvents.Data\bin\Debug\net6.0\EvoEvents.Data.dll
+C:\Projects\Team2\BE\src\EvoEvents.Data\bin\Debug\net6.0\EvoEvents.Data.pdb
+C:\Projects\Team2\BE\src\EvoEvents.Data\obj\Debug\net6.0\EvoEvents.Data.csproj.AssemblyReference.cache
+C:\Projects\Team2\BE\src\EvoEvents.Data\obj\Debug\net6.0\EvoEvents.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Team2\BE\src\EvoEvents.Data\obj\Debug\net6.0\EvoEvents.Data.AssemblyInfoInputs.cache
+C:\Projects\Team2\BE\src\EvoEvents.Data\obj\Debug\net6.0\EvoEvents.Data.AssemblyInfo.cs
+C:\Projects\Team2\BE\src\EvoEvents.Data\obj\Debug\net6.0\EvoEvents.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Team2\BE\src\EvoEvents.Data\obj\Debug\net6.0\EvoEvents.Data.dll
+C:\Projects\Team2\BE\src\EvoEvents.Data\obj\Debug\net6.0\refint\EvoEvents.Data.dll
+C:\Projects\Team2\BE\src\EvoEvents.Data\obj\Debug\net6.0\EvoEvents.Data.pdb
+C:\Projects\Team2\BE\src\EvoEvents.Data\obj\Debug\net6.0\ref\EvoEvents.Data.dll
